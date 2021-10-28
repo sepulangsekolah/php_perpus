@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body {
-    background: #201A19;
+    background: #191c1a;
 }
 
 h2 {
-    color: #201A19;
+    color: #191c1a;
 }
 
 img {
@@ -17,13 +17,13 @@ img {
     padding: 1em;
     margin: 2em auto;
     width: 17em;
-    background: #FFDAD4;
+    background: #8FF8BF
     border-radius: 25px;
 }
 
 label {
     font-size: 10pt;
-    color: 201A19;
+    color: #191c1a;
 }
 
 input[type="text"]

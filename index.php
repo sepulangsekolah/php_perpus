@@ -22,15 +22,13 @@
     <div id="sidebar">
         <p>Hello there! Whats up?</p>
         <br>
-        <a href="#">Log out</a>
-        <br>
         <a href="#">conquerOS Source</a>
         <br>
         <a href="#">lunatic. Source</a>
         <br>
         <a href="#">halcyon! Source</a>
-    </div>
-
+        <br>
+        <a href="login.php">Log out</a>    </div>
     </div>
 
     <div id="menu_tengah">

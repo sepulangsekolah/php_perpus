@@ -10,6 +10,27 @@
 </head>
 
 <body>
+  <br>
+  <br>
+  <br>
+  <div class="login">
+    <img src="cq.png">
+    <form action="" method="post">
+    <center>
+    <div>
+        <label>Username</label>
+        <input type="text" name="username">
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" name="username">
+    </div>
+    <div>
+        <br>
+        <input type="submit" name="Login">
+    </div>
 
-</body>
+    </center>
+  </div>
+  </body>
 </html>
